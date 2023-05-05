@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shikhar nigam
 
-- 🌱 I’m currently learning data science and machine learning
+- 🌱 I’m Google and NIIT certified in  data science and machine learning
 - 💞️ I’m looking to collaborate on various projects
 
 
